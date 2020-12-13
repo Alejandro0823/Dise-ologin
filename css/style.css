@@ -1,0 +1,175 @@
+
+.p {
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+
+
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+
+.testbox {
+  margin: 20px auto;
+  width: 343px; 
+  height: 380px; 
+  font-family: 'Open Sans', sans-serif;
+  -webkit-border-radius: 8px/7px; 
+  -moz-border-radius: 8px/7px; 
+  border-radius: 20px; 
+  background-color: white; 
+  -webkit-box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  -moz-box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  border: solid 1px white;
+  margin-top: 250px;
+  margin-left: 20%;
+  float: left;
+}
+
+.title{
+  width: 30%;
+  color: white;
+  height: 200px;
+  margin-top: 420px;
+  float: left;
+  margin-left: 5%;
+}
+
+.p1{
+  margin-left: 35%;
+  font-size: 30px;
+}
+
+.p2{
+  margin-left: 22%;
+  font-size: 50px;
+  background-image: linear-gradient(#00a7e1, #00a7e1);
+  background-position: bottom 25px center;
+  background-size: calc(100% - 9px) 23px ;
+  background-repeat: no-repeat;
+  padding: 10px;
+}
+
+
+
+
+form{
+  margin: 0 30px;
+}
+
+
+
+input[type=text],input[type=password]{
+  width: 100%; 
+  border: 0;
+  height: 39px; 
+  Font-family: 'Nunito';
+  margin-left: -5px;
+  margin-top: 13px; 
+  padding-left: 10px;
+  background-image: linear-gradient(#00a7e1, #00a7e1);
+  background-position: bottom 5px center;
+  background-size: calc(100% - 10px) 2px;
+  background-repeat: no-repeat;
+  background-color: #fcfcfc;
+  padding: 10px;
+}
+
+input[type=password]{
+   
+  margin-bottom: 25px;
+}
+
+
+
+a.button {
+  font-size: 14px;
+  font-weight: 600;
+  Font-family: 'Nunito';
+  color: white;
+  padding: 6px 25px 0px 20px;
+  margin: 10px 8px 20px 0px;
+  display: inline-block;
+  text-decoration: none;
+  width: 100%; height: 30px; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  text-align: center;
+  border-radius: 20px; 
+  background-color: #00a7e1; 
+  -webkit-box-shadow: 0 3px rgba(58,87,175,.75); 
+  -moz-box-shadow: 0 3px rgba(58,87,175,.75); 
+  box-shadow: 0 3px rgba(58,87,175,.75);
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+a.button:hover {
+  top: 3px;
+  background-color:#2e458b;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+#name{
+    border: 0;
+    background-color: #eee;
+}
+
+
+.g {
+    padding: 6px 25px 0px 20px;
+    margin: 10px 8px 20px 0px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    width: 46%;height: 30px; 
+    font-size: 10px;
+    border: 1px solid black;
+    border-radius: 20px; 
+    position: relative;
+    float: left;
+   
+  }
+
+  .img1{
+      width: 30%;
+      height: 20px;
+  }
+
+  
+.f{
+    padding: 6px 25px 0px 20px;
+    margin: 10px 8px 20px 0px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    width: 46%;height: 30px; 
+    float: right;
+    font-size: 10px;
+    border: 1px solid black;
+    border-radius: 20px; 
+    position: relative;
+  }
+
+  .img2{
+      width: 30%;
+      height: 20px;
+  }
+
+
+
